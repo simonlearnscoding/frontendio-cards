@@ -11,7 +11,7 @@ function App() {
 
 function Square() {
   return (
-    <div className="h-max-content p-3  pb-8 m-4 sm:w-2/12  bg-slate-200 rounded-2xl flex flex-col w-4/5 text-6xl">
+    <div className="h-max-content p-3  pb-8 m-4 sm:w-80  bg-slate-200 rounded-2xl flex flex-col w-4/5 text-6xl">
       <Image />
       <Content />
     </div>
